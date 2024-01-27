@@ -4,7 +4,7 @@
 
 # React Movies
 
-[Live Demo](https://olgatenison.github.io/goit-react-hw-05-movies/](https://olgatenison.github.io/movie-search/)
+[Live Demo]([https://olgatenison.github.io/goit-react-hw-05-movies/](https://olgatenison.github.io/movie-search/])
 
 🎥 What's it all about?
 This application leverages the power of React and taps into the free API to bring you up-to-date details about movies, 
