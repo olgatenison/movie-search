@@ -4,11 +4,11 @@
 
 # React Movies
 
-[Live Demo](https://olgatenison.github.io/goit-react-hw-05-movies/)
+[Live Demo](https://olgatenison.github.io/goit-react-hw-05-movies/](https://olgatenison.github.io/movie-search/)
 
-This project is a React application for searching and displaying movie
-information. It uses the themoviedb.org API to fetch data about movies, actors,
-and reviews.
+🎥 What's it all about?
+This application leverages the power of React and taps into the free API to bring you up-to-date details about movies, 
+actors, and reviews. Whether you're a movie buff or just looking for your next favorite film, this project has got you covered!
 
 ## Project Structure
 
