@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="assets/prewfilms.jpg" width="700" alt="Project Preview">
+     <img src="assets/prewfilms.jpg"  alt="Project Preview">
 </p>
 
 # React Movies
